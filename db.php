@@ -1,8 +1,8 @@
 <?php
     class DB{
         protected $host = "localhost";
-        protected $username = "root";
-        protected $password = "ilyass20S@";
+        protected $username = "ilyass";
+        protected $password = "";
 
         public function connect()
         {
